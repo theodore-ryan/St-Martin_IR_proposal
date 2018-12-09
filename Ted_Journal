@@ -3,3 +3,36 @@ Tuesday 2-oct-2018 meeting
   Contacting PLU and WWU for information as they use smae services of Islandora(WWU) and Dspace(PLU)
   establishing nrequirements to run system
   
+20-Sept-2018:
+  Conducted meeting with Dean of Library Amy Stewart-Mailhiot . 
+    Set what she wanted researched for an Intelectual Repositry.
+      1 - Check mutiple other sources, two she wants checked out is Dspace and Islandora
+      Group set up goals:
+        Research mutiple sources and meet again on 25 oct to go over systems that meet Freeware and used to set up IR
+ 25- Sept:
+        Systems I looked at Invenio and VuFind. Invenio was recented compleely overhauled and older Inventio systems were incompatable wih the new system. Recomend statying
+        away from it currently.
+        VuFind uses Solr Energy. Apache Solr which is used by Islandora. The freware used and developed by Villanova uNiversity.
+        Compared t Islandora and Dspace recommend staying with main two softwares choices.
+27 -Sep: Team agreed to research just Dspace and Islandora after intial comparison.
+        Split team up with AUgustine and me research Islandora and Raj and Ahmed research Dspace
+30-Sep: Isloandora is located at https://www.islandora.ca
+          designed initially by a college library system, the Robertson Library of the University of Prince Canada
+          Software alnguages and systems used with it are:
+           Fedora, Apache Solr, and Drupal
+           Sandbox is available for testing allow us to get initial hands use
+           Very easy up-front user controls
+           Documentation easily reached. Says for download can use Github
+           There is documentation for learning how to implement ISLANDORA available from the ISLANDORA homepage. With the goal of creating a system that is both easy to implement and simple to learn, this fits our needs very well.
+           A modular framework for defining specific data types, including standard audio, PDF, images, paged content, videos, and web archives
+           A flexible faceted search (Solr).
+      Videos watched:
+          https://www.youtube.com/watch?v=IF0ppflKtTM&t=174s
+          https://www.youtube.com/watch?v=emNMZFBN0bc&list=PL0J3FDIF-sPVM27VNsAP1XqfOHKk20UoR
+   5 - OCt: Run Sandbox to see how it uploads files
+   16-Oct: Got together what we had researched. Group wanted to go with Islandora. I recommeded we doclient update brief see what te client wants
+   18-Oct: put together intial presentation ofr Mid term brief. Contacted PLU and Oregon Library on experiences with Dspace and Islandora
+   PLU (Dspace)- Installed it themselves.  Some issue with user interface 
+   Oregon State Library (Islandora) - Had a vendor install and operate it. Find the user interface very easy to use. Vendor controls all backside and require intractions if they wish to change the systm at all.
+   
+   
